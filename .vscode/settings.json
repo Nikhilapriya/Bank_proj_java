@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libraries\\jcalendar-1.4.jar",
+        "libraries\\JTattoo-1.6.11.jar",
+        "libraries\\rs2xml.jar",
+        "libraries\\sqlite-jdbc-3.7.2.jar"
+    ]
+}
