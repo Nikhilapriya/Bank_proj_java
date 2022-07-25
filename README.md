@@ -1,4 +1,5 @@
-#PESU BANK
+PESU BANK
+
 The application can be used for normal banking purposes and is capable of performing the following functions: -
 1)	Create an account
 2)	View Profile
